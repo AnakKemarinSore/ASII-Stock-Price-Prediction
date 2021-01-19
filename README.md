@@ -1,7 +1,7 @@
-# Stock Price Prediction using LSTM and ARIMA
+# Stock Price Prediction using LSTM
 Hej!
 
-In this section, we will try to predict stock price using deep learning model such as LSTM and ARIMA. What are these models?
+In this section, we will try to predict stock price using deep learning model such as LSTM. What are these models?
 --.
 
 
