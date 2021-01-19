@@ -1,1 +1,4 @@
-add software used
+python==
+pandas==0.25.3
+keras==
+list all software
