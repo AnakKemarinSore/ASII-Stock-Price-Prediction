@@ -10,3 +10,9 @@ There are some libraries that you should intall beforehand:
 1. --.
 2. --.
 3. --.
+
+# License
+--.
+
+# References
+--.
