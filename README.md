@@ -22,6 +22,9 @@ There are some libraries that you should intall beforehand:
 4. Matplotlib.
 5. Plotly.
 
+# Istallation
+To install, use pip install keras and pip install plotly, and then you can import the module of keras and plotly in your python script or jupyter notebook.
+
 # License
 MIT License
 
