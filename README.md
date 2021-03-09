@@ -9,7 +9,7 @@ Since stock price data is time-series data, it is essential to use a model that 
 
 The LSTMs have recurrent connections; thus, the state of previous activations of the neuron from the previous time step is used as context for formulating an output (Brownlee, 2017). Besides, unlike other RNNs, LSTM has a unique formulation that allows it to avoid the problems that prevent the training and scaling of other RNNs. Therefore, it can achieve a better result. Those are the reasons why LSTM is gaining a lot of popularity for solving the time-series prediction case.
 
-We will implement an interactive data visualization of stock price using Plotly! 
+In addition, we will implement an interactive data visualization of stock price using Plotly! 
 
 Note that we will use the LSTM model and the CRISP-DM reference model (adapted) as guidance to predict the ASII.JK stock price.
 
