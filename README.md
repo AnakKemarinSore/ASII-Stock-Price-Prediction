@@ -1,4 +1,4 @@
-# Stock Price Prediction using LSTM
+# Astra International Stock Price Prediction using LSTM
 Hej!
 
 In this repository, we will try to predict stock price of Astra International (Astra). Astra is an Indonesian conglomerate (Indonesia-investment.com, 2014). This company was established in 1957 in Jakarta as a general trading company. In 1990, Astra has listed its shares on the Indonesia Stock Exchange under the ticker code ASII (Astra.co.id, 2021).
