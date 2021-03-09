@@ -12,7 +12,7 @@ There are some libraries that you should intall beforehand:
 3. --.
 
 # License
---.
+MIT License
 
 # References
 --.
