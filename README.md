@@ -1,4 +1,9 @@
 # Astra International Stock Price Prediction using LSTM
+
+# Disclaimer 
+This project does not endorse any companies or particular stock. This project was conducted for educational purpose. Kindly consult experts before making any decision related to buying or selling of stocks. Cheers! :)
+
+# Introduction 
 Hej!
 
 In this repository, we will try to predict stock price of Astra International (Astra). Astra is an Indonesian conglomerate (Indonesia-investment.com, 2014). This company was established in 1957 in Jakarta as a general trading company. In 1990, Astra has listed its shares on the Indonesia Stock Exchange under the ticker code ASII (Astra.co.id, 2021).
@@ -39,6 +44,3 @@ MIT License
 8. Pai, Ping-Feng & Lin, Chih-Sheng. (2005). A hybrid ARIMA and support vector machines model in stock price forecasting. Omega (Oxford), 33(6), pp.497–505.
 9. Papacharalampous, Georgia, Tyralis, Hristos & Koutsoyiannis, Demetris. (2018). Predictability of monthly temperature and precipitation using automatic time series forecasting methods. Acta geophysica, 66(4), pp.807–831.
 10. Plotly. (2021). Plotly Python Open Source Graphing Library Financial Charts. URL: https://plotly.com/python/financial-charts/
-
-# Disclaimer 
-This project does not endorse any companies or particular stock. This project was conducted for educational purpose. Kindly consult experts before making any decision related to buying or selling of stocks. Cheers! :)
